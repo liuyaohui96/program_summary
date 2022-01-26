@@ -1,4 +1,10 @@
 
+# Program Summary
+1. [编程总结分类（笔记内容见各文件夹内）](#编程总结分类笔记内容见各文件夹内)
+2. [重要更新](#重要更新)
+3. [计划更新](#计划更新)
+
+
 ## 编程总结分类（笔记内容见各文件夹内）
 * 基础
   * 计算机基础
@@ -25,7 +31,7 @@
 * 网址推荐
 
 
-### 重要更新
+## 重要更新
 :basketball: 2019/6/13 Rebuild Architecture:
   * Adjust folder
   * Add prefix order to folder
@@ -37,7 +43,7 @@
 :basketball: 2019/6/27
   * add **practice**
 
-### 计划更新
+## 计划更新
 * promise
 * event and event loop
 * generator
